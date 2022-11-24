@@ -1,0 +1,9 @@
+C:\Users\ComputerLab4PC1\source\repos\Juanima_ReadFile\bin\Debug\Juanima_ReadFile.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Juanima_ReadFile\bin\Debug\Juanima_ReadFile.exe
+C:\Users\ComputerLab4PC1\source\repos\Juanima_ReadFile\bin\Debug\Juanima_ReadFile.pdb
+C:\Users\ComputerLab4PC1\source\repos\Juanima_ReadFile\obj\Debug\Juanima_ReadFile.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Juanima_ReadFile\obj\Debug\Juanima_ReadFile.FrmOpenTextFile.resources
+C:\Users\ComputerLab4PC1\source\repos\Juanima_ReadFile\obj\Debug\Juanima_ReadFile.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Juanima_ReadFile\obj\Debug\Juanima_ReadFile.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Juanima_ReadFile\obj\Debug\Juanima_ReadFile.exe
+C:\Users\ComputerLab4PC1\source\repos\Juanima_ReadFile\obj\Debug\Juanima_ReadFile.pdb

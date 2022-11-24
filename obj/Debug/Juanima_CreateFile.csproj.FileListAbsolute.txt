@@ -1,0 +1,13 @@
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\bin\Debug\Juanima_CreateFile.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\bin\Debug\Juanima_CreateFile.exe
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\bin\Debug\Juanima_CreateFile.pdb
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_CreateFile.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_CreateFile.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_CreateFile.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_CreateFile.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_CreateFile.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_CreateFile.exe
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_CreateFile.pdb
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_CreateFile.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_ReadFile.FrmOpenTextFile.resources
+C:\Users\ComputerLab4PC1\source\repos\Juanima_CreateFile\obj\Debug\Juanima_CreateFile.FrmStudentRecord.resources
